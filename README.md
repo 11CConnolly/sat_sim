@@ -1,5 +1,5 @@
 # sat_sim
-Coding Task
+Satellite and Simulator Coding Challenge
 
 ## Compilation and Execution
 
