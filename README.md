@@ -1,5 +1,5 @@
 # sat_sim
-Satellite and Simulator Coding Challenge
+Satellite and Simulator Blog Challenge
 
 ## Compilation and Execution
 
