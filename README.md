@@ -49,9 +49,6 @@ make
 ctest
 ```
 
-## Documentation
-Docs provided are a very basic and barebones SUITP, SValP, and Development Plan. These are in .doc format and should be included in the email along with the results from the execution of the campaign. 
-
 ## Issues
 Some issues that may arise during the compilation and/or execution of the program & their solutions: 
 
