@@ -1,5 +1,5 @@
 # sat_sim
-Satellite and Simulator Challenge
+Satellite and Simulator Project
 
 ## Compilation and Execution
 
