@@ -26,7 +26,7 @@ See later section on issues for futher help or solving of issues
 ##### Assumptions
 - TCs can execute simulatenously
 - Duplicate TCs (TCs received whilst the associated task is running) will be discarded and won't cause new TM reception.
-- Whilst it would be possible to create a new space on the heap for each task, in the time given it was chosen to make a simplifying assumption and that tasks will be stored statically in 'code'
+- Whilst it would be possible to create a new space on the heap for each task, it was chosen to make a simplifying assumption and that tasks will be stored statically in 'code'
 
 #### Simulator
 Developed in Python3
